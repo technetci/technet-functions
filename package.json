@@ -1,0 +1,16 @@
+{
+  "name": "technet-functions",
+  "version": "1.0.0",
+  "description": "Signing + verification functions for Tech-Net ticket system",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "func start",
+    "test": "echo \"No tests yet\" && exit 0"
+  },
+  "dependencies": {
+    "@azure/functions": "^4.5.0"
+  },
+  "engines": {
+    "node": ">=20.0.0"
+  }
+}

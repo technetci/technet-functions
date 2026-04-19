@@ -1,0 +1,9 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "",
+    "FUNCTIONS_WORKER_RUNTIME": "node",
+    "FUNCTIONS_EXTENSION_VERSION": "~4",
+    "TECHNET_SIGNING_SECRET": "CHANGE_ME_TO_32_PLUS_CHARS_BEFORE_RUNNING"
+  }
+}
